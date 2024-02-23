@@ -1,0 +1,6 @@
+User Name : admin
+PWD: Narayana@123
+
+
+SonarQube-token
+sqa_855e2848ad7fc2277d9b4e849b5bb8900246afed
